@@ -16,7 +16,8 @@ class ViewController: UIViewController {
         print("abc")
         print("qwerf")
         
-        
+        self.view.backgroundColor = UIColor.blue
+        print("]]]")
         print("lll")
     }
 
